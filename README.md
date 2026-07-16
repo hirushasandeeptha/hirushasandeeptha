@@ -110,42 +110,6 @@ const hirusha = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/hirushasandeeptha/hirushasandeeptha/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🌐 3D Contribution Graph
-
-<div align="center">
-
-[![3D Contribution Graph](https://raw.githubusercontent.com/hirushasandeeptha/hirushasandeeptha/main/profile-3d-contrib/profile-3d-contrib-night.png)](https://github.com/hirushasandeeptha)
-
-</div>
-
----
-
-## 🌍 My Coding Village
-
-<div align="center">
-
-*Your contributions become a living 3D village with seasons, clouds, and animated terrain!*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./maeul-in-the-sky-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./maeul-in-the-sky-light.svg">
-  <img alt="GitHub contribution terrain" src="./maeul-in-the-sky-dark.svg" width="100%">
-</picture>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
