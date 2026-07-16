@@ -16,6 +16,22 @@ When I'm not coding, you'll find me exploring the intersection of artificial int
 
 ---
 
+## 🎯 Featured Portfolio
+
+<div align="center">
+
+### 🌐 **[View My Super Animated Profile](https://github.com/hirushasandeeptha/my-portfolio/blob/main/super-profile.html)**
+
+*A futuristic, cyberpunk-styled portfolio with advanced animations, interactive elements, and immersive visual experience.*
+
+**✨ Features:** Animated gradients • Floating particles • Interactive project cards • Smooth scroll • Glowing UI elements
+
+[Open Live Profile →](https://raw.githubusercontent.com/hirushasandeeptha/my-portfolio/main/super-profile.html)
+
+</div>
+
+---
+
 ## 🛠️ Tools & Technologies
 
 ### Frontend & Frameworks
@@ -48,7 +64,7 @@ When I'm not coding, you'll find me exploring the intersection of artificial int
       <h3>🌐 Interactive Isometric Code Matrix</h3>
       <p>A futuristic, cyberpunk-styled 3D isometric grid animation with interactive hover effects and digital rain background. Perfect for portfolio landing pages.</p>
       <p><strong>Tech:</strong> Vanilla JS • CSS 3D Transforms • Tailwind CSS</p>
-      <p><a href="https://github.com/hirushasandeeptha/my-portfolio/blob/main/isometric-grid.html">📂 View Code</a> • <a href="https://raw.githubuser content.com/hirushasandeeptha/my-portfolio/main/isometric-grid.html">🔗 Live Demo</a></p>
+      <p><a href="https://github.com/hirushasandeeptha/my-portfolio/blob/main/isometric-grid.html">📂 View Code</a> • <a href="https://raw.githubusercontent.com/hirushasandeeptha/my-portfolio/main/isometric-grid.html">🔗 Live Demo</a></p>
     </td>
     <td width="50%">
       <h3>🤖 AI Wrapper Suite</h3>
@@ -97,6 +113,7 @@ I'm always interested in collaborating on exciting projects and discussing web d
 - 💼 **GitHub:** [@hirushasandeeptha](https://github.com/hirushasandeeptha)
 - 📧 **Email:** [Contact me via GitHub](#)
 - 🔗 **Portfolio:** [https://github.com/hirushasandeeptha](https://github.com/hirushasandeeptha)
+- 🎬 **Animated Profile:** [View Super Profile](https://github.com/hirushasandeeptha/my-portfolio/blob/main/super-profile.html)
 - 💬 **Open to:** Freelance opportunities, collaborations, and tech discussions
 
 ---
