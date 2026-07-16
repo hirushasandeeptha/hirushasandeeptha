@@ -110,7 +110,26 @@ const hirusha = {
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
+<svg width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="snakeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:0">
+        <animate attributeName="offset" values="0;0.5;0" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#00FF88;stop-opacity:1">
+        <animate attributeName="offset" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0">
+        <animate attributeName="offset" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <text x="250" y="35" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="url(#snakeGrad)">
+    🐍 Contribution Snake
+  </text>
+</svg>
+</div>
 
 <div align="center">
 
@@ -120,7 +139,26 @@ const hirusha = {
 
 ---
 
-## 🌐 3D Contribution Graph
+<div align="center">
+<svg width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="graphGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7B2FFF;stop-opacity:0">
+        <animate attributeName="offset" values="0;0.5;0" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#FF00FF;stop-opacity:1">
+        <animate attributeName="offset" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0">
+        <animate attributeName="offset" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <text x="250" y="35" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="url(#graphGrad)">
+    🌐 3D Contribution Graph
+  </text>
+</svg>
+</div>
 
 <div align="center">
 
@@ -130,7 +168,29 @@ const hirusha = {
 
 ---
 
-## 🌍 My Coding Village
+<div align="center">
+<svg width="600" height="50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="villageGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:0">
+        <animate attributeName="offset" values="0;0.5;0" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="30%" style="stop-color:#00FF88;stop-opacity:1">
+        <animate attributeName="offset" values="0.1;0.6;0.1" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="70%" style="stop-color:#FFD700;stop-opacity:1">
+        <animate attributeName="offset" values="0.4;0.9;0.4" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#FF6B35;stop-opacity:0">
+        <animate attributeName="offset" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <text x="300" y="35" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="url(#villageGrad)">
+    🌍 My Coding Village
+  </text>
+</svg>
+</div>
 
 <div align="center">
 
