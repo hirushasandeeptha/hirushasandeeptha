@@ -130,6 +130,22 @@ const hirusha = {
 
 ---
 
+## 🌍 My Coding Village
+
+<div align="center">
+
+*Your contributions become a living 3D village with seasons, clouds, and animated terrain!*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./maeul-in-the-sky-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./maeul-in-the-sky-light.svg">
+  <img alt="GitHub contribution terrain" src="./maeul-in-the-sky-dark.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
