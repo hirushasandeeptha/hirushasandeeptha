@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7B2FFF,100:00D4FF&height=220&section=header&text=Hirusha%20Sandeeptha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20UI%20Designer&descSize=18&descAlignY=55&descAlign=50"/>
 
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Junior+Full-Stack+Developer;AI+Integration+Specialist;Building+Cool+Stuff+Since+2024;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 </div>
