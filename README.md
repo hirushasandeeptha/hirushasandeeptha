@@ -1,131 +1,153 @@
-# Hey there! 👋 I'm Hirusha Sandeeptha
-
-<div align="center">
-  
-**Junior Full-Stack Developer** | AI Enthusiast | Building Digital Experiences
-  
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate Junior Full-Stack Developer focused on creating intelligent, user-centric applications. I specialize in building **AI-powered solutions**, including AI wrappers, smart auto-responders, and data-driven dashboards with stunning interactive interfaces.
-
-When I'm not coding, you'll find me exploring the intersection of artificial intelligence and user experience design.
-
----
-
-## 🎯 Featured Portfolio
-
 <div align="center">
 
-### 🌐 **[View My Super Animated Profile](https://github.com/hirushasandeeptha/my-portfolio/blob/main/super-profile.html)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7B2FFF,100:00D4FF&height=220&section=header&text=Hirusha%20Sandeeptha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20UI%20Designer&descSize=18&descAlignY=55&descAlign=50"/>
 
-*A futuristic, cyberpunk-styled portfolio with advanced animations, interactive elements, and immersive visual experience.*
-
-**✨ Features:** Animated gradients • Floating particles • Interactive project cards • Smooth scroll • Glowing UI elements
-
-[Open Live Profile →](https://raw.githubusercontent.com/hirushasandeeptha/my-portfolio/main/super-profile.html)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Junior+Full-Stack+Developer;AI+Integration+Specialist;Building+Cool+Stuff+Since+2024;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧑‍💻 About Me
 
-### Frontend & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Quasar Framework](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMC00LjQ4LTEwLTEwLTEwem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Development & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### AI & Specializations
-![AI/ML](https://img.shields.io/badge/AI%20Integration-FF6B35?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API%20Integration-4B8BBE?style=for-the-badge)
-![Dashboard Development](https://img.shields.io/badge/Dashboard%20Systems-00A4EF?style=for-the-badge)
-![3D Web Animation](https://img.shields.io/badge/3D%20Animation-9966FF?style=for-the-badge)
+```javascript
+const hirusha = {
+    title: "Junior Full-Stack Developer",
+    location: "Sri Lanka 🇱🇰",
+    currentFocus: "AI-Powered Web Applications",
+    technologies: ["Vue.js", "Next.js", "Node.js", "Tailwind CSS"],
+    funFact: "I code in cyberspace and dream in 3D animations ✨",
+    openTo: ["Freelance", "Collaborations", "Open Source"]
+};
+```
 
 ---
 
-## 🎯 Featured Projects
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### Frontend & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+#### Development & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+#### AI & Specializations
+![AI/ML](https://img.shields.io/badge/AI%20Integration-00D4FF?style=flat-square)
+![API Integration](https://img.shields.io/badge/API%20Integration-7B2FFF?style=flat-square)
+![Dashboard Development](https://img.shields.io/badge/Dashboard%20Systems-FF00FF?style=flat-square)
+![3D Web Animation](https://img.shields.io/badge/3D%20Animation-00D4FF?style=flat-square)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api/?username=hirushasandeeptha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hirushasandeeptha&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirushasandeeptha&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hirushasandeeptha&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Pinned Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🌐 Interactive Isometric Code Matrix</h3>
-      <p>A futuristic, cyberpunk-styled 3D isometric grid animation with interactive hover effects and digital rain background. Perfect for portfolio landing pages.</p>
-      <p><strong>Tech:</strong> Vanilla JS • CSS 3D Transforms • Tailwind CSS</p>
-      <p><a href="https://github.com/hirushasandeeptha/my-portfolio/blob/main/isometric-grid.html">📂 View Code</a> • <a href="https://raw.githubusercontent.com/hirushasandeeptha/my-portfolio/main/isometric-grid.html">🔗 Live Demo</a></p>
+      <div align="center">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hirushasandeeptha&repo=my-portfolio&theme=tokyonight&hide_border=true" />
+      </div>
     </td>
     <td width="50%">
-      <h3>🤖 AI Wrapper Suite</h3>
-      <p>Intelligent API integration layer for seamless AI service consumption. Built with Next.js and modern best practices.</p>
-      <p><strong>Tech:</strong> Next.js • JavaScript • API Integration</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💬 Smart Auto-Responder</h3>
-      <p>AI-powered communication system that intelligently manages responses and automates customer interactions.</p>
-      <p><strong>Tech:</strong> Vue.js • Node.js • AI Integration</p>
-    </td>
-    <td width="50%">
-      <h3>📊 Dashboard Management System</h3>
-      <p>Comprehensive analytics and control dashboard with real-time data visualization and intuitive interfaces.</p>
-      <p><strong>Tech:</strong> Quasar • Tailwind CSS • Node.js</p>
+      <div align="center">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hirushasandeeptha&repo=PUBLI-COUSTOMER-MANAGMENT&theme=tokyonight&hide_border=true" />
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🎮 Digitalized Traditional Games</h3>
-      <p>Modern digital adaptations of classic games with immersive UI/UX and multiplayer capabilities.</p>
-      <p><strong>Tech:</strong> Vue.js • JavaScript • Tailwind CSS</p>
+      <div align="center">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hirushasandeeptha&repo=LifeVault&theme=tokyonight&hide_border=true" />
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hirushasandeeptha&repo=pdf-dark-mode-tool&theme=tokyonight&hide_border=true" />
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 What I Do
+## 🐍 Contribution Snake
 
-- ✨ **Full-Stack Development** – Frontend beauty meets backend functionality
-- 🤖 **AI Integration** – Wrapping and optimizing AI services for production use
-- 🌐 **3D Web Animation** – Creating immersive, interactive visual experiences
-- 📊 **Dashboard Design** – Creating data-driven interfaces that inform and engage
-- 🎨 **UI/UX Implementation** – Translating designs into responsive, accessible experiences
-- 🔗 **API Development** – Building robust and scalable backend systems
+<div align="center">
 
----
+![Snake animation](https://raw.githubusercontent.com/hirushasandeeptha/hirushasandeeptha/output/github-contribution-grid-snake-dark.svg)
 
-## 🌐 Get in Touch
-
-I'm always interested in collaborating on exciting projects and discussing web development trends. Feel free to reach out!
-
-- 💼 **GitHub:** [@hirushasandeeptha](https://github.com/hirushasandeeptha)
-- 📧 **Email:** [Contact me via GitHub](#)
-- 🔗 **Portfolio:** [https://github.com/hirushasandeeptha](https://github.com/hirushasandeeptha)
-- 🎬 **Animated Profile:** [View Super Profile](https://github.com/hirushasandeeptha/my-portfolio/blob/main/super-profile.html)
-- 💬 **Open to:** Freelance opportunities, collaborations, and tech discussions
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 🌐 3D Contribution Graph
 
-I believe that great code is like great design – it's invisible to the user but transforms their experience. I'm constantly learning new technologies to bring innovative solutions to life. Currently exploring the depths of 3D web animations and cyberpunk aesthetics! 🚀
+<div align="center">
+
+[![3D Contribution Graph](https://raw.githubusercontent.com/hirushasandeeptha/hirushasandeeptha/main/profile-3d-contrib/profile-3d-contrib-night.png)](https://github.com/hirushasandeeptha)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hirushasandeeptha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirusha-ranasinghe-11909b3b9/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirushasandeeptha2006@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-  
-**Thanks for visiting! Feel free to explore my repositories and let's build something amazing together.** 🚀
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=hirushasandeeptha&color=00D4FF&style=flat-square)
+
+**"Code is poetry written in logic."** ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7B2FFF,100:00D4FF&height=120&section=footer"/>
+
 </div>
