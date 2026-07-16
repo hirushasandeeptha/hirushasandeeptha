@@ -48,7 +48,7 @@ When I'm not coding, you'll find me exploring the intersection of artificial int
       <h3>🌐 Interactive Isometric Code Matrix</h3>
       <p>A futuristic, cyberpunk-styled 3D isometric grid animation with interactive hover effects and digital rain background. Perfect for portfolio landing pages.</p>
       <p><strong>Tech:</strong> Vanilla JS • CSS 3D Transforms • Tailwind CSS</p>
-      <p><a href="https://github.com/hirushasandeeptha/my-portfolio/blob/main/isometric-grid.html">📂 View Code</a></p>
+      <p><a href="https://github.com/hirushasandeeptha/my-portfolio/blob/main/isometric-grid.html">📂 View Code</a> • <a href="https://raw.githubuser content.com/hirushasandeeptha/my-portfolio/main/isometric-grid.html">🔗 Live Demo</a></p>
     </td>
     <td width="50%">
       <h3>🤖 AI Wrapper Suite</h3>
@@ -96,7 +96,7 @@ I'm always interested in collaborating on exciting projects and discussing web d
 
 - 💼 **GitHub:** [@hirushasandeeptha](https://github.com/hirushasandeeptha)
 - 📧 **Email:** [Contact me via GitHub](#)
-- 🔗 **Portfolio:** [Coming soon](#)
+- 🔗 **Portfolio:** [https://github.com/hirushasandeeptha](https://github.com/hirushasandeeptha)
 - 💬 **Open to:** Freelance opportunities, collaborations, and tech discussions
 
 ---
