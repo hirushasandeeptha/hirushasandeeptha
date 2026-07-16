@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 ```javascript
@@ -26,8 +24,6 @@ const hirusha = {
     openTo: ["Freelance", "Collaborations", "Open Source"]
 };
 ```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -56,8 +52,6 @@ const hirusha = {
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -72,8 +66,6 @@ const hirusha = {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirushasandeeptha&theme=tokyonight&hide_border=true)
 
 </div>
-
----
 
 ## 🎯 Pinned Projects
 
@@ -104,8 +96,6 @@ const hirusha = {
   </tr>
 </table>
 
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -115,8 +105,6 @@ const hirusha = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirushasandeeptha2006@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
