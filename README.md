@@ -81,49 +81,6 @@ const hirusha = {
 
 ---
 
-## 🎯 Pinned Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hirushasandeeptha&repo=KDJ-SINGLISH-LK&theme=tokyonight&hide_border=true" />
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hirushasandeeptha&repo=school-management-system&theme=tokyonight&hide_border=true" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hirushasandeeptha&repo=KDJ-LK-WEB-OFFICIAL&theme=tokyonight&hide_border=true" />
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hirushasandeeptha&repo=KDJ-KURUKURU&theme=tokyonight&hide_border=true" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hirushasandeeptha&repo=CLI-KDJ-MCTECH-POS&theme=tokyonight&hide_border=true" />
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hirushasandeeptha&repo=HND-FLOW&theme=tokyonight&hide_border=true" />
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
